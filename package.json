@@ -1,5 +1,5 @@
 {
-  "name": "placement cell",
+  "name": "placement-cell",
   "version": "1.0.0",
   "description": "This is Placement cell application for career camp team",
   "main": "index.js",
