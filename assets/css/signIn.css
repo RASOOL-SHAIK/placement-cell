@@ -32,3 +32,17 @@ button{
     border: none;
     border-radius: 8px;
 }
+
+
+@media screen and (max-width: 600px) {
+    section{
+        width: 90%;
+        margin-left: 5%;
+    }
+    input{
+        width: 90%;
+    }
+    button{
+        width: 40%;
+    }
+}
